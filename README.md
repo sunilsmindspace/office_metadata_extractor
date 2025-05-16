@@ -7,6 +7,7 @@ A Python library for extracting `custom.xml` and `core.xml` metadata from Micros
 ```bash
 pip install office_metadata_extractor
 ```
+
 ## Usage
 ```bash
 from office_metadata_extractor import OfficeMetadataExtractor

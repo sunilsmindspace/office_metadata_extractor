@@ -8,16 +8,16 @@ setup(
     description='Extract custom and core metadata from Office (.docx, .xlsx, .pptx) files',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/office_metadata_extractor',
+    url='https://github.com/sunilsmindspace/office_metadata_extractor',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: Apache 2.0 License',
         'Intended Audience :: Developers',
         'Topic :: File Utilities',
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.13.1',
     include_package_data=True,
     license='MIT'
 )

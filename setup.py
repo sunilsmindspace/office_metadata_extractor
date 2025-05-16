@@ -13,7 +13,7 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
-        'License :: OSI Approved :: Apache 2.0 License',
+        'License :: OSI Approved :: MIT',
         'Intended Audience :: Developers',
         'Topic :: File Utilities',
     ],

@@ -2,6 +2,8 @@
 
 A Python library for extracting `custom.xml` and `core.xml` metadata from Microsoft Office files (.docx, .xlsx, .pptx). It also includes file-level metadata like file size and timestamps.
 
+__Please Note:__ _Currently it will not complain if a file is not available or unable to open or permission issues or is incompatible (somehow)._
+
 ## Installation
 
 ```bash
